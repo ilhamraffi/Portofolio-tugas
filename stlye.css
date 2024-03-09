@@ -1,0 +1,9 @@
+nav {
+    background-color: white;
+    display: flex;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+}
